@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1702388354 source:c:\games\python\cpp\tubesarh\main.cpp
+	"TUBES.h"
+
+1702389334 c:\games\python\cpp\tubesarh\tubes.h
+	<iostream>
+
+1702387189 source:c:\games\python\cpp\tubesarh\tubes.cpp
+	"TUBES.h"
+
+1704123089 source:c:\coding\cpp\tubesrev\tubesarh\main.cpp
+	"TUBES.h"
+
+1704121022 c:\coding\cpp\tubesrev\tubesarh\tubes.h
+	<iostream>
+	<stdlib.h>
+
+1704122222 source:c:\coding\cpp\tubesrev\tubesarh\tubes.cpp
+	"TUBES.h"
+
